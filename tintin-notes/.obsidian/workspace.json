@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "89482386f0c3554e",
+    "type": "split",
+    "children": [
+      {
+        "id": "55f72d928f5386f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec0b1d997cb65c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-2/Probability and Statistics/Probability/2. Intermediate Stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Intermediate Stuff"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6830f824926c565",
+    "type": "split",
+    "children": [
+      {
+        "id": "163fabd6d013cc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9d5b75c6d963c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "687148ada914c4cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "556e3121b6737421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dd128678eb9e149",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d37828a6f78216d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ffeb7785122db0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "48252d0a35167c33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b3bef3e1f74fa822",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99bfcca7330e1db1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9dc5da0cf0bad544",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ec0b1d997cb65c1b",
+  "lastOpenFiles": [
+    "2-2/CSE 209 (Computer Architecture)/Lec 2 MIPS All Theory.md",
+    "2-2/CSE 209 (Computer Architecture)/MIPS Guide.md",
+    "2-2/CSE 209 (Computer Architecture)/Ultimate C or Cpp To MIPS.md",
+    "2-2/Probability and Statistics/Probability/2. Intermediate Stuff.md",
+    "2-2/Probability and Statistics/Probability/Untitled.md",
+    "2-2/Probability and Statistics/Probability/1. Basic Counting and Probability.md",
+    "2-2/CSE 209 (Computer Architecture)/C To MIPS.md",
+    "2-2/CSE 209 (Computer Architecture)",
+    "2-2/Probability and Statistics/Probability/3. Third Stage.md",
+    "2-2/CSE 219 (Signal Processing)/Fourier/0. Basics.md",
+    "2-2/Probability and Statistics/Probability",
+    "2-2/Probability and Statistics",
+    "2-2/CSE 219 (Signal Processing)/16. Causality and Stability.md",
+    "2-2/CSE 219 (Signal Processing)/Fourier",
+    "2-2/CSE 219 (Signal Processing)/Convolution/15. Practice.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/14. Python Implementation.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/13. Incorporating Everything.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/12. LTI Convolution Sum.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/11. Signal to Impulse.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/10. The Impulse Response.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/9. The Impulse Function.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/8. Convolution Why.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/7. Properties of Convolution.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/6. Computing Convolution.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution/5. Convolution Basics.md",
+    "2-2/CSE 219 (Signal Processing)/LTI System/4. LTI Systems.md",
+    "2-2/CSE 219 (Signal Processing)/LTI System/3. Time Invariance.md",
+    "2-2/CSE 219 (Signal Processing)/LTI System/2. Linearity.md",
+    "2-2/CSE 219 (Signal Processing)/LTI System/1. What is a System.md",
+    "2-2/CSE 219 (Signal Processing)/Convolution",
+    "2-2/CSE 219 (Signal Processing)/LTI System",
+    "Welcome.md",
+    "2-2/CSE 219 (Signal Processing)",
+    "2-2"
+  ]
+}
