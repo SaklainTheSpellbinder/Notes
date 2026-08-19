@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/Probability and Statistics/Probability/2. Intermediate Stuff.md",
+                "file": "2-2/Probability and Statistics/Probability/3. Third Stage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Intermediate Stuff"
+              "title": "3. Third Stage"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5dd128678eb9e149",
@@ -187,10 +188,12 @@
   },
   "active": "ec0b1d997cb65c1b",
   "lastOpenFiles": [
+    "2-2/CSE 219 (Signal Processing)/Fourier/Tintin.md",
+    "2-2/CSE 219 (Signal Processing)/Fourier/Untitled.md",
+    "2-2/Probability and Statistics/Probability/2. Intermediate Stuff.md",
     "2-2/CSE 209 (Computer Architecture)/Lec 2 MIPS All Theory.md",
     "2-2/CSE 209 (Computer Architecture)/MIPS Guide.md",
     "2-2/CSE 209 (Computer Architecture)/Ultimate C or Cpp To MIPS.md",
-    "2-2/Probability and Statistics/Probability/2. Intermediate Stuff.md",
     "2-2/Probability and Statistics/Probability/Untitled.md",
     "2-2/Probability and Statistics/Probability/1. Basic Counting and Probability.md",
     "2-2/CSE 209 (Computer Architecture)/C To MIPS.md",
@@ -215,10 +218,8 @@
     "2-2/CSE 219 (Signal Processing)/LTI System/4. LTI Systems.md",
     "2-2/CSE 219 (Signal Processing)/LTI System/3. Time Invariance.md",
     "2-2/CSE 219 (Signal Processing)/LTI System/2. Linearity.md",
-    "2-2/CSE 219 (Signal Processing)/LTI System/1. What is a System.md",
     "2-2/CSE 219 (Signal Processing)/Convolution",
     "2-2/CSE 219 (Signal Processing)/LTI System",
-    "Welcome.md",
     "2-2/CSE 219 (Signal Processing)",
     "2-2"
   ]
